@@ -14,7 +14,7 @@ int main()
         for (starcount=1;starcount<=(2*rowloop)-1;starcount++)
         {
             printf("*");
-        }printrowcount("\n");
+        }printf("\n");
     }
 
 }
